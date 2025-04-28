@@ -9,7 +9,7 @@ public class AutomationExercise extends PageObject {
 
     public static final Target SIGN_IN = Target
             .the("Sign in")
-            .located(xpath("//*[@id=\"header\"]/div/div/div/div[2]/div/ul/li[4]/a/text()"));
+            .located(xpath("//*[@href='/login']"));
 
     public static final Target EMAIL_CREATE_ACCOUNT = Target
             .the("Email Address for Register")
