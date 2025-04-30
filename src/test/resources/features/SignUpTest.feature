@@ -1,5 +1,5 @@
 Feature: Abrir pagina Web
-  Yo como usuario de la pagina Tools QA
+  Yo como usuario de la pagina Automation Exercise
   Quiero poder abrir la web
   Para interactuar con los servicios ofrecidos de la misma
 
