@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Loguearse en la web","Como cliente proporciono la informacion necesaria para poder ingresar a la cuenta","SUCCESS","2025-04-28T15:02:07.9621011-05:00[America/Bogota]","0.0","21.13"
+"Abrir pagina Web","Como usuario ingreso a la pagina web","SUCCESS","2025-05-02T11:01:46.5093328-05:00[America/Bogota]","0.0","20.39"
+"Registro en pagina Web","Como usuario ingreso a la pagina web","SUCCESS","2025-05-02T11:02:11.5052087-05:00[America/Bogota]","0.0","15.33"

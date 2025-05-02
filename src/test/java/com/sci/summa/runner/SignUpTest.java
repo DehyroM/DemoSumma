@@ -4,6 +4,8 @@ import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
 import org.junit.runner.RunWith;
 
+// ./gradlew test --tests *com.sci.summa.runner.SignUpTest* --tests *com.sci.summa.runner.OpenWebTest* aggregate -i
+
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
         snippets = CucumberOptions.SnippetType.CAMELCASE,
